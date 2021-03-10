@@ -12,7 +12,7 @@ I am a budding software developer. I am close to finishing an Apprenticeship in 
 ## Web Development Project (C#, JS, TypeScript, CSS, HTML)
 
 ### ReactSite - **[Code](https://github.com/StefEmp/ReactSite)**
-ReactSite is a projected created by Stephane Emptage and Alex Paiu whilst training in their apprenticeship. It is a proof of concept to show the business a prototype of what a React based recruitment site would look like and how it would work, when the business eventually transitions to using React. Langauges used: C#, TypeScript, JavaScript, CSS, HTML, Semantic UI.
+ReactSite is a project created by Stephane Emptage and Alex Paiu whilst training in their apprenticeship. It is a proof of concept to show the business a prototype of what a React based recruitment site would look like and how it would work, when the business eventually transitions to using React. Langauges used: C#, TypeScript, JavaScript, CSS, HTML, Semantic UI.
 
 [![ReactSite](/reactsite.png)](https://github.com/StefEmp/ReactSite "ReactSite")
 
