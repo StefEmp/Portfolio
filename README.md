@@ -23,6 +23,7 @@ ReactSite is a project created by Stephane Emptage and Alex Paiu whilst training
 To translate my knowledge of object oriented programming from JavaScript to C++ and the Unreal Engine I am following **[this](https://www.udemy.com/course/unrealcourse/)** course on udemy, as well as **[this](https://www.udemy.com/course/beginning-c-plus-plus-programming/)**  course to learn more about pure C++.
 I will over time be adding video links to showcase my understanding and also to hopefully make it easier for potential employers to see my projects without necessarily having to look through all my code (unless they want to!).
 
+
 ### Escape The Building - **[Code](https://github.com/StefEmp/EscapeTheBuilding)** - **[Video](https://youtu.be/teJxwSS8iN4)**
 #### Overview
 This game is about escaping a building. I developed the gameplay mechanics on a test level. I created a basic room with a door and the player can place two objects on a trigger volume to open the door and escape. The mechanics I coded into the game were: door physics, linking a trigger volume to my door object and adding mass and gravity to the player pawn and objects. 
@@ -46,6 +47,22 @@ The game is created using the Unreal Engine and C++, the functionality of the te
 Netrunner is a basic game coded in C++. You are a hacker, you need to figure out the correct codes to progress. There are 5 levels to complete. The game is played in your terminal. I used this project to transfer my understanding of object oreintated programming from other languages to C++. 
 
 [![Netrunner](/NetrunnerPicture.png)](https://youtu.be/zcMQp_VILNs "Netrunner")
+
+### Mini C++ Projects
+
+Below is a list of a few mini projects I worked on in C++ to start to develop my understanding of the language:
+
+* **[Equality Operators](https://github.com/StefEmp/EqualityOperators/blob/main/main.cpp)**
+* **[Mixed Expressions](https://github.com/StefEmp/MixedExpressions/blob/main/main.cpp)**
+* **[Application that works out change in pence and pounds](https://github.com/StefEmp/MoneyChangeLeftOver/blob/main/main.cpp)**
+* **[Switch Statements](https://github.com/StefEmp/SwitchStatements/blob/main/main.cpp)**
+* **[For Loops](https://github.com/StefEmp/ForLoops/blob/main/main.cpp)**
+* **[Range-based Loops](https://github.com/StefEmp/RangeBasedForLoops/blob/main/main.cpp)**
+* **[Do While Loops](https://github.com/StefEmp/DoWhileLoops/blob/main/main.cpp)**
+* **[Multiplication Table - Nested Loops](https://github.com/StefEmp/MultiplicationTableNestedLoops/blob/main/main.cpp)**
+* **[Histogram Application](https://github.com/StefEmp/HistogramNestedLoops/blob/main/main.cpp)**
+* **[Multiple Loop Application](https://github.com/StefEmp/IntegratingAllLoopLearningChallenge/blob/main/main.cpp)**
+
 
 ## Other Projects
 
