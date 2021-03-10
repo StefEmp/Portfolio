@@ -9,11 +9,6 @@ I am a budding software developer. I am close to finishing an Apprenticeship in 
 
 ## My Projects
 
-### Overview
-
-To translate my knowledge of object oriented programming from JavaScript to C++ and the Unreal Engine I am following **[this](https://www.udemy.com/course/unrealcourse/)** course on udemy, as well as **[this](https://www.udemy.com/course/beginning-c-plus-plus-programming/)**  course to learn more about pure C++.
-I will over time be adding video links to showcase my understanding and also to hopefully make it easier for potential employers to see my projects without necessarily having to look through all my code (unless they want to!).
-
 ## Web Development Project (C#, JS, TypeScript, CSS, HTML)
 
 ### ReactSite - **[Code](https://github.com/StefEmp/ReactSite)**
@@ -23,6 +18,10 @@ ReactSite is a projected created by Stephane Emptage and Alex Paiu whilst traini
 
 ## C++ focused projects
 
+### Overview
+
+To translate my knowledge of object oriented programming from JavaScript to C++ and the Unreal Engine I am following **[this](https://www.udemy.com/course/unrealcourse/)** course on udemy, as well as **[this](https://www.udemy.com/course/beginning-c-plus-plus-programming/)**  course to learn more about pure C++.
+I will over time be adding video links to showcase my understanding and also to hopefully make it easier for potential employers to see my projects without necessarily having to look through all my code (unless they want to!).
 
 ### Escape The Building - **[Code](https://github.com/StefEmp/EscapeTheBuilding)** - **[Video](https://youtu.be/teJxwSS8iN4)**
 #### Overview
