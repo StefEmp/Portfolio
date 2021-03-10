@@ -50,7 +50,7 @@ Netrunner is a basic game coded in C++. You are a hacker, you need to figure out
 
 ### Mini C++ Projects
 
-Below is a list of a few mini projects I worked on in C++ to start to develop my understanding of the language:
+Below is a list of a few mini projects I have worked on in C++ to start to develop my understanding of the language:
 
 * **[Equality Operators](https://github.com/StefEmp/EqualityOperators/blob/main/main.cpp)**
 * **[Mixed Expressions](https://github.com/StefEmp/MixedExpressions/blob/main/main.cpp)**
