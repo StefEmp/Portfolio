@@ -4,7 +4,7 @@
 
 ## Introduction
 
-I am a budding software developer. I am close to finishing an Apprenticeship in Software Development Level 4 (end date April 2021). The first language I learnt on my Apprenticeship was JavaScript, HTML and CSS. I am also learning C++ in my free time. You can see some of my projects below and a description about what they do.
+Below are some of the past projects I have worked on.
 
 
 # My Projects
